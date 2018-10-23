@@ -1,0 +1,2 @@
+# sugarlabs
+My first repository
